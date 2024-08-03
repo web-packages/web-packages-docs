@@ -5,3 +5,7 @@
 
 > [!WARNING]
 > Preparing this document for members and others...
+
+> __LOCALIZATION DOCS__<br>
+> We localize this documents so that more people can contribute to this project.<br><br>
+> [Go to korean version of this document](README-kr.md)
